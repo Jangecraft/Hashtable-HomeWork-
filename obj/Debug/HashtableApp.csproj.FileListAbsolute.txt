@@ -1,0 +1,15 @@
+D:\C#\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+D:\C#\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+D:\C#\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csprojAssemblyReference.cache
+D:\C#\HashtableApp\HashtableApp\obj\Debug\MainWindow.g.cs
+D:\C#\HashtableApp\HashtableApp\obj\Debug\App.g.cs
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.cache
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp_MarkupCompile.lref
+D:\C#\HashtableApp\HashtableApp\obj\Debug\MainWindow.baml
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.g.resources
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.Properties.Resources.resources
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.GenerateResource.cache
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csproj.CoreCompileInputs.cache
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+D:\C#\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb
